@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Activity Project</string>
+
+    <!-- Page d'accueil -->
+    <string name="home_page_title">A découvrir </string>
+    <string name="home_page_last_activity_section">Derniére activité </string>
+
+    <!-- Activity -->
+    <string name="item_activity_name">Nom de l"activité</string>
+    <string name="item_activity_description">Description de l"activité</string>
+
+    <!-- Page de collection -->
+    <string name="collection_page_title">Ma Collection </string>
+    <string name="collection_page_description">Description de l"activité </string>
+
+
+    <!-- Page Ajout Activity -->
+    <string name="add_activity_page_title">Ajout d"une activité </string>
+    <string name="add_activity_page_upload">Charger une image </string>
+    <string name="add_activity_page_name_input">Nom de l"activité </string>
+    <string name="add_activity_page_Description_input">Description de l"activité </string>
+
+    <string-array name="add_activity_page">
+        <item>Activity sportif</item>
+        <item>Activity naturel</item>
+        <item>Activity adventure</item>
+    </string-array>
+    <string name="add_page_btn">Confirmer</string>
+
+    <!-- Fenetre puple detail -->
+    <string name="puple_activity_name">Activity Name</string>
+    <string name="puple_activity_description_title">Description</string>
+    <string name="puple_activity_description">Petite Description</string>
+
+
+</resources>

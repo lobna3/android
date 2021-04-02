@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273111517232",
+    "project_id": "activity-project-26d7a",
+    "storage_bucket": "activity-project-26d7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273111517232:android:5870c12a3809dc330885f5",
+        "android_client_info": {
+          "package_name": "eniso.android.activityproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273111517232-gaf3odh222cssgm28vhsbu0pnen6hugh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQoF5Ro-R4J-o4xkyGxNiowq9xHFzpZjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273111517232-gaf3odh222cssgm28vhsbu0pnen6hugh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
